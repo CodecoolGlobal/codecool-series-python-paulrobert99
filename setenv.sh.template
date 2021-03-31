@@ -13,11 +13,11 @@ deactivate() {
 
 # insert your database name, username (role), host ip and password
 # you can find the API key in the assignment description page in Curriculum
-MY_PSQL_DBNAME=""
-MY_PSQL_USER=""
-MY_PSQL_HOST=""
-MY_PSQL_PASSWORD=""
-TRAKT_API_KEY=""
+MY_PSQL_DBNAME="codecool-series"
+MY_PSQL_USER="postgres"
+MY_PSQL_HOST="localhost"
+MY_PSQL_PASSWORD="000000"
+TRAKT_API_KEY="3e337b37dbfdf736abec8b82c39012da25b2dc0c169d9fa8353f0c5169c63203"
 
 export MY_PSQL_DBNAME
 export MY_PSQL_USER
